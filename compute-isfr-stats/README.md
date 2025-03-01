@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a PowerShell script which will generate a list of all compute in your tenant (virtual machines and virtual machine scale sets) with SKU details expressed as an instance size flexibility ratio.
+This is a PowerShell script which will generate a list of all compute in your tenant (virtual machines and virtual machine scale sets) with SKU details expressed as an instance size flexibility ratio (ISFR).
 
 ## Report
 
