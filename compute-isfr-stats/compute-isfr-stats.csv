@@ -1,3 +1,0 @@
-subscriptionName,resourceGroup,location,name,skuName,count,type,InstanceSizeFlexibilityGroup,Ratio,LowestCommonSku,LowestCommonSkuCount
-acme-nonprod-01,choco-nonprod-rg,uksouth,vm-x-y-z,Standard_E8s_v5,1,microsoft.compute/virtualmachines,Esv5 Series,4,Standard_E2s_v5,4
-acme-prod-01,choco-prod-rg,uksouth,vmss-aa-bb-cc,Standard_D8d_v5,99,microsoft.compute/virtualmachinescalesets,Ddv5 Series,4,Standard_D2d_v5,396
